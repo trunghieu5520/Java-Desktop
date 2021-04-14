@@ -1,1 +1,1 @@
-# Java-Desktop
+# Java-Desktop and Java Core Lab
